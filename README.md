@@ -33,7 +33,7 @@ Faculty
 </th>
 <th>Roll No.</th>
 <tr>
-<td>B-Tech(CSE(CSF-IBM)<</td>
+<td>B-Tech(CSE-IBM)<</td>
 <td>Fet</td>
 <td> 1/19/FET/BCS/108</td>
 </tr>
@@ -44,7 +44,7 @@ Faculty
 <li> Video Editing </li>
 <li> HTML </li>
 <li> C++ </li>
-<li> Java </li>>
+<li> Java </li>
 </ul>
 <h2> Experience : </h2>
 6 Months Internship
